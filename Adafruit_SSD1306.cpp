@@ -1,6 +1,8 @@
 /*********************************************************************
 This is a library for our Monochrome OLEDs based on SSD1306 drivers
 
+DP
+
   Pick one up today in the adafruit shop!
   ------> http://www.adafruit.com/category/63_98
 
